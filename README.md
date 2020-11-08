@@ -4,6 +4,8 @@
 
 * This widget outputs the additions, subtractions, and movements of items on the list.
 
+* Technologies: Python, Json, APIs
+
 * Colabortors: Alex Laursen, Chris Doohan
 
 * Contact: Alex Laursen - Ajlaursen@aol.com
